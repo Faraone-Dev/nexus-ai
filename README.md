@@ -457,17 +457,7 @@ python -m pytest tests/ -v --tb=short
 | **Pro** | 29€/mo | Unlimited alerts, auto-trade |
 | **Whale** | 99€/mo | Priority signals, VIP group, custom settings |
 
-### Token Gated Access
-
-Hold **$NEXUS** for access:
-
-| Tier | $NEXUS Required | Access |
-|------|-----------------|--------|
-| Free | 0 | Basic alerts (15min delay) |
-| Bronze | 10,000 | Real-time alerts |
-| Silver | 50,000 | + Auto-trade |
-| Gold | 200,000 | + Unlimited pairs |
-| Diamond | 1,000,000 | + API access + VIP |
+<!-- Token Gated Access section removed -->
 
 ---
 
